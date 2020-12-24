@@ -34,7 +34,9 @@ For the Arduino Nano GPIO pins 3, 5, 6, 9, 10, 11 are the only PWM capable pins.
 ## Understanding the Code
 The code is over complicated by the fact that originally I wrote it to change a strip of RGB leds using the FastLED library, then quickly modified it to send PWM to the same pins instead. pwm_pins_update() and pwm_pins_set_all() are the functions that actually does all the work.
 
+## Galaxy-Man bored adds a few sthings to the table!
 Once you have done this then add a few things...
 ![DSC_0002Large](DSC_0002Large.webp)
-
+![DSC_0006Large](DSC_0006Large.webp)  
+![DSC_0006Large](DSC_0006Large.webp)  
 
