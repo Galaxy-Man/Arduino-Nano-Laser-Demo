@@ -40,6 +40,6 @@ Once you have done this then add a few things...
 
 ![DSC_0006Large](DSC_0006Large.webp)  
 
-![DSC_0047 (Large)](DSC_0047 (Large).jpg)  
+![DSC_0047](DSC_0047.png)  
 
 
