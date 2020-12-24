@@ -38,5 +38,5 @@ The code is over complicated by the fact that originally I wrote it to change a 
 Once you have done this then add a few things...
 ![DSC_0002Large](DSC_0002Large.webp)
 ![DSC_0006Large](DSC_0006Large.webp)  
-![DSC_0006Large](DSC_0006Large.webp)  
+![DSC_0047 (Large)](DSC_0047 (Large).jpg)  
 
