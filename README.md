@@ -36,10 +36,10 @@ The code is over complicated by the fact that originally I wrote it to change a 
 
 ## Galaxy-Man bored adds a few sthings to the table!
 Once you have done this then add a few things...
-![DSC_0002Large](DSC_0002Large.webp)  
+![Table Layout](DSC_0002Large.webp)  
 
-![DSC_0006Large](DSC_0006Large.webp)  
+![Table layout](DSC_0006Large.webp)  
 
-![DSC_0047](DSC_0047.png)  
+![Power up lasers](DSC_0044.png)  
 
 
